@@ -3,6 +3,7 @@
 🔍 Passionate about Data Science and exploring the world of Machine Learning and AI 
 💡 I love working with data, building models, and discovering insights that can drive real-world impact.
 🚀 Always learning new techniques and tools to enhance my skills and contribute to open-source projects.
+💼 AT PRESENT ,doing internship at CODTECH IT SOLUTIONS in DATA SCIENCE
 
 🧰 Technologies & Tools I Use:
 -Programming Languages: Python, R, SQL 
@@ -14,4 +15,5 @@
 🧑‍💻 What I’m Working On: 
 -Exploring different data science techniques to solve real-world problems 
 -Working on projects related to predictive modeling, data visualization, and statistical analysis
--Continuously improving my knowledge of machine learning algorithms and deep learning models
+-Continuously improving my knowledge of machine learning algorithms and deep learning models.
+
